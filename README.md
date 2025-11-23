@@ -2,6 +2,8 @@
 
 A production-grade, cloud-ready .NET 9 API boilerplate with clean architecture, built for deployment on Coolify/Hetzner or any container platform.
 
+> **📖 Design Decisions:** This boilerplate makes specific architectural choices (Minimal APIs, custom auth, clean architecture). See [DESIGN_DECISIONS.md](DESIGN_DECISIONS.md) for rationale and alternatives (Controllers, ASP.NET Core Identity, etc.).
+
 ## Features
 
 ### Architecture & Patterns
